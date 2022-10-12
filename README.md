@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Daniil034/in-browser-markdown-editor](https://github.com/Daniil034/in-browser-markdown-editor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Daniil034/in-browser-markdown-editor)
+- Live Site URL: [Github pages](https://daniil034.github.io/in-browser-markdown-editor/)
 
 ## My process
 
