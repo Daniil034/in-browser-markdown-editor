@@ -1,6 +1,6 @@
 # Frontend Mentor - In-browser markdown editor solution
 
-This is a solution to the [In-browser markdown editor challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/inbrowser-markdown-editor-r16TrrQX9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [In-browser markdown editor challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/inbrowser-markdown-editor-r16TrrQX9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Daniil034/in-browser-markdown-editor)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/inbrowser-markdown-editor-solution-using-react-and-redux-vite-Fj49hLcUlL)
 - Live Site URL: [Github pages](https://daniil034.github.io/in-browser-markdown-editor/)
 
 ## My process
